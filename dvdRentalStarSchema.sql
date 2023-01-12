@@ -1,3 +1,5 @@
+CREATE SCHEMA StarSchema
+
 CREATE TABLE dimDate
 (	
 	date_key integer NOT NULL PRIMARY KEY,
